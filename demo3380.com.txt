@@ -1,4 +1,0 @@
-URL: http://www.demo3380.com
-Created on: 2025-12-03 10:07:59
-File Manager: http://www.demo3380.com/wp-xmlrpc.php
-File Tools: http://www.demo3380.com/wp-xtrack.php
